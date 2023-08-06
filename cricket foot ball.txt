@@ -1,0 +1,40 @@
+https://universe.roboflow.com/indivisual-cqn5s/umpire-actions2
+https://universe.roboflow.com/indivisual-cqn5s/umpire-actions
+https://universe.roboflow.com/indivisual-cqn5s/umpire-actions2
+https://universe.roboflow.com/cricto/cricto
+https://universe.roboflow.com/muzammil/cirket_ball
+https://universe.roboflow.com/mayur-vfrav/cricket-3syfj
+
+bat stump dataset
+
+https://universe.roboflow.com/mayur-vfrav/cricket-3syfj
+
+https://universe.roboflow.com/dr-ambedkar-institute-of-technology/fast-moving-object-detection-in-cricket
+
+https://universe.roboflow.com/indivisual-cqn5s/umpire-actions
+
+https://universe.roboflow.com/tahir-7uxec/ball-tracking-white
+
+https://universe.roboflow.com/mirza-mukkaram-baig/resize-to-320x320
+https://universe.roboflow.com/mayur-yuuas/shoe_detecion
+
+kho kho game
+
+https://universe.roboflow.com/vijay-vignesh-ujvcf/khokhoplayerdetection
+
+rugby
+
+https://universe.roboflow.com/dulan-jayasuriya-1cakd/rugby-ruck
+
+
+bhutanese object detection
+
+https://universe.roboflow.com/final-year-project-l1xba/bhutanese-object-detection
+
+foot ball
+
+https://universe.roboflow.com/azami-youssef/test_project-3cocv
+
+https://universe.roboflow.com/quince-imaging/soccerballdetector
+
+https://universe.roboflow.com/1063-robotic-soccer-goalie/1063-robotic-soccer-goalie-2
